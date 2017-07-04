@@ -1,0 +1,154 @@
+* 
+{
+  margin: 0;
+  padding: 0;
+  font-family: Arial;
+
+}
+
+img {
+	width: 100%;
+}
+
+
+.main {
+	margin: auto;
+	width: 700px;
+	
+	background-color: #d1d1d1;
+	padding-top: 58px;
+	padding-left: 58px;
+
+
+
+}
+
+.header {
+
+	width: 640px;
+	height: 1525px;
+	
+	background-color: #FFFFFF;
+	
+}
+
+	
+
+img {
+	width: 100%;
+	
+}
+	
+
+.header1 {
+
+
+	
+	padding-left: 50px;
+	padding-right: 50px;
+	margin: 0px;
+	
+	background-color: #FFFFFF;
+}
+
+span {
+	margin-left: 50%;
+}
+
+.reklama {
+	width: 257px;
+	float: left;
+	font-size: 16px;
+}
+
+.reklama img {
+	width: 100%
+}
+.buton {
+	
+	background-color: #d55c4a;
+	color: #FFFFFF;
+	height: 41px;
+	font-family: Arial;
+	border-radius: 5px;
+	text-align: center; 
+	white-space: nowrap; 
+	
+
+
+}
+
+.rec {
+	line-height: 41px;
+	
+	
+	
+	
+	
+	
+}
+
+.reklama1 {
+	width: 257px;
+	float: right;
+	font-size: 16px;
+}
+
+.reklama2 {
+	width: 161px;
+	height: 378px;
+	float: left;
+	margin-top: 30px;
+	font-size: 14px;
+	
+
+
+}
+
+.reklama3 {
+	width: 161px;
+	height: 378px;
+	float: left;
+	margin-left: 28px;
+	margin-top: 30px;
+	
+	font-size: 14px;
+
+
+
+}
+
+.reklama4 {
+	width: 161px;
+	height: 378px;
+	float: right;
+	margin-top: 30px;
+	
+	font-size: 14px;
+
+
+}
+.footer {
+	
+	float: left;
+
+
+	
+}
+
+p {
+	line-height: 1.5;
+	padding-top: 20px;
+}
+.buton1 {
+	float: left;
+	background-color: #d55c4a;
+	color: #FFFFFF;
+	height: 41px;
+	font-family: Arial;
+	border-radius: 5px;
+	text-align: center; 
+	white-space: nowrap;
+	width: 100%;
+	margin-top: 60px; 
+}
