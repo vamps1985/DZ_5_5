@@ -20,7 +20,6 @@ img {
 	padding-left: 58px;
 
 
-
 }
 
 .header {
@@ -42,7 +41,6 @@ img {
 
 .header1 {
 
-
 	
 	padding-left: 50px;
 	padding-right: 50px;
@@ -51,7 +49,7 @@ img {
 	background-color: #FFFFFF;
 }
 
-span {
+.sp1 {
 	margin-left: 50%;
 }
 
@@ -75,13 +73,11 @@ span {
 	white-space: nowrap; 
 	
 
-
 }
 
 .rec {
 	line-height: 41px;
-	
-	
+	text-decoration: none;
 	
 	
 	
@@ -132,7 +128,6 @@ span {
 	
 	float: left;
 
-
 	
 }
 
@@ -141,6 +136,7 @@ p {
 	padding-top: 20px;
 }
 .buton1 {
+
 	float: left;
 	background-color: #d55c4a;
 	color: #FFFFFF;
@@ -151,4 +147,19 @@ p {
 	white-space: nowrap;
 	width: 100%;
 	margin-top: 60px; 
+}
+
+.footer1 {
+	padding-top: 20px;
+	text-align: center;
+	width: 640px;
+	height: 80px;
+	color: white;
+	
+
+}
+
+.footer2 {
+	margin: auto;
+
 }
